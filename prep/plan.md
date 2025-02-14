@@ -1,7 +1,7 @@
 # Plan
 
-## Tool: 
-## Product: 
+## Tool: Godot
+## Product: Open World Game
 
 ---
 
@@ -9,13 +9,26 @@
 
 #### MVP
 
-- [ ] Task (deadline: X)
-  - [ ] Subtask (deadline: X)
+- [ ] Start up a blueprint of the format of our open-world game (deadline: 2/16 - 2/23)
+  - [ ] Think and search for the models for enemies 
+  - [ ] In-game models like water, beach, grass, etc.
+- [ ] Start with the in-game design and make sure that the player can move(deadline: 2/24 - 3/9)
+  - [ ] WASD movement, jump feature, simple/solid colors 
+- [ ] Interactive parts(deadline: 3/10 - 3/24)
+  - [ ] At least 1 or 2 enemies 
+- [ ] Death screen(deadline: 3/25 - 3/31)
+  - [ ] When the player dies from an enemy drowning 
+- [ ] This can be chests, in-game rewards(deadline: 4/1 - 4/12)
 
 #### Beyond MVP
 
-- [ ] Task
-  - [ ] Subtask
+- [ ] Create more enemies to let the player have a more challenging time 
+  - [ ] That means to create more models of the enemy
+- [ ] Create abilities for both players and enemies 
+- [ ] Consider obstacles for the player around the game to make a more intense experience
+- [ ] More interactive things
+- [ ] Smooth animations
+
 
 
 <!-- EXAMPLE
