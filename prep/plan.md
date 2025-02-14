@@ -18,10 +18,10 @@
   - [ ] At least 1 or 2 enemies 
 - [ ] Death screen(deadline: 3/25 - 3/31)
   - [ ] When the player dies from an enemy drowning 
-- [ ] This can be chests, in-game rewards(deadline: 4/1 - 4/12)
-
+ - [ ] If we do not have any mistakes on the project or time delays, we can work on the Beyond MVP (4/1 - 4/21)
 #### Beyond MVP
-
+- [ ] Create abilities for both players and enemies 
+- [ ] chests, in-game rewards
 - [ ] Create more enemies to let the player have a more challenging time 
   - [ ] That means to create more models of the enemy
 - [ ] Create abilities for both players and enemies 
