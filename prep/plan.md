@@ -12,8 +12,8 @@
 - [X] Start up a blueprint of the format of our open-world game (deadline: 2/16 - 2/23) - together
   - [X] Think and search for the models for enemies 
   - [X] In-game models like water, beach, grass, etc.
-- [ ] Start with the in-game design and make sure that the player can move(deadline: 2/24 - 3/9) - Shelly
-  - [ ] WASD movement, jump feature, simple/solid colors 
+- [X] Start with the in-game design and make sure that the player can move(deadline: 2/24 - 3/9) - Shelly
+  - [X] WASD movement, jump feature, simple/solid colors 
 - [ ] Interactive parts(deadline: 3/10 - 3/24)
   - [ ] At least 1 or 2 enemies - Angela
 - [ ] Death screen(deadline: 3/25 - 3/31) - Together
